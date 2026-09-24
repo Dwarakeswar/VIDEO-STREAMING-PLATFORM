@@ -53,6 +53,68 @@ const defaultVideos = [
 
         description: "Sample live content from YouTube."
     }
+   {
+    id: 8,
+    title: "Dragon Glimpse - Telugu",
+    category: "Movies",
+    image: "",
+    url: "https://www.youtube.com/embed/FlOzIM7Yov4",
+    description: "Dragon Glimpse - Telugu."
+},
+
+{
+    id: 9,
+    title: "The Paradise - Teaser",
+    category: "Movies",
+    image: "",
+    url: "https://www.youtube.com/embed/yX90gF4_EjI",
+    description: "The Paradise official teaser."
+},
+
+{
+    id: 10,
+    title: "PUBG Trailer",
+    category: "Movies",
+    image: "",
+    url: "https://www.youtube.com/embed/uCd6tbUAy6o",
+    description: "PUBG trailer."
+},
+
+{
+    id: 11,
+    title: "Assassin's Creed Revelations - Trailer",
+    category: "Movies",
+    image: "",
+    url: "https://www.youtube.com/embed/HMsbMK9Odoc",
+    description: "Assassin's Creed Revelations trailer."
+},
+
+{
+    id: 12,
+    title: "Introduction to Data Science",
+    category: "Technology",
+    image: "",
+    url: "https://www.youtube.com/embed/gDZ6czwuQ18",
+    description: "An introduction to data science."
+},
+
+{
+    id: 13,
+    title: "Artificial Intelligence",
+    category: "Technology",
+    image: "",
+    url: "https://www.youtube.com/embed/JMUxmLyrhSk",
+    description: "An introduction to artificial intelligence."
+},
+
+{
+    id: 14,
+    title: "NVIDIA",
+    category: "Technology",
+    image: "",
+    url: "https://www.youtube.com/embed/1tRTWwZ5DIc",
+    description: "NVIDIA technology and developments."
+}
 
 ];
 
