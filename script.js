@@ -52,7 +52,7 @@ const defaultVideos = [
         url: "https://www.youtube.com/embed/21X5lGlDOfg",
 
         description: "Sample live content from YouTube."
-    }
+    },
    {
     id: 8,
     title: "Dragon Glimpse - Telugu",
